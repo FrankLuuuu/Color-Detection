@@ -1,5 +1,4 @@
 import cv2 # openCV
-import numpy as np 
 import pandas as pd
 import argparse 
 
